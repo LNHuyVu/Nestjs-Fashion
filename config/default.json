@@ -1,0 +1,19 @@
+{
+    "port":"3100",
+    "mongodbUrl":"mongodb+srv://lnhv:123456789Huyvu@lnhv.iw56ysf.mongodb.net/ecommerce",
+    "adminSecretToken":"!@#$%",
+    "jwtSecret":"!@#azc^%$",
+    "link":"http://localhost:300/auth",
+    "prefix":"api/v1",
+    "cloudinary":{
+        "cloud_name":"",
+        "api_key":"",
+        "api_secret":"",
+        "folderPath":"",
+        "publicId_prefix":"",
+        "bigSize":  ""
+    },
+    "stripe":{
+        "secret_key":""
+    }
+}
